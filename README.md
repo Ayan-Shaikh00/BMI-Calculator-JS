@@ -1,2 +1,7 @@
 # BMI-Calculator-JS
+HERE'S LINK ==> [ https://ayan-shaikh00.github.io/BMI-Calculator-JS/ ]
 This project aims to create a body mass index calculator. There are two input fields where the user can enter their height in centimeters and weight in kilograms. By clicking the "compute BMI" button, the BMI will be calculated and displayed along with the weight condition, which is determined by if statements based on the BMI. 
+<img width="1607" height="960" alt="Screenshot 2026-07-30 163344" src="https://github.com/user-attachments/assets/f8ff22d1-7a62-4d0e-a64a-2d567f2ec419" />
+<img width="1505" height="950" alt="Screenshot 2026-07-30 163312" src="https://github.com/user-attachments/assets/f5834e69-bb26-4576-996e-fb19c2fdcdf8" />
+<img width="1683" height="951" alt="Screenshot 2026-07-30 163138" src="https://github.com/user-attachments/assets/bbf034c7-e443-4658-a282-761518bf70a8" />
+This project aims to create a body mass index calculator. There are two input fields where the user can enter their height in centimeters and weight in kilograms. By clicking the "compute BMI" button, the BMI will be calculated and displayed along with the weight condition, which is determined by if statements based on the BMI. We will also install the project with a neumorphism design and use JavaScript to calculate the BMI. All results will be displayed inside the input field and at the end of the container.
